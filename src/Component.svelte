@@ -53,12 +53,12 @@
     gap: 4px;
     z-index: 999;
     position: absolute;
-    background-color: black;
+    background-color: var(--bgColour, black);
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 4px;
     border-style: solid;
-    border-color: rgb(177, 177, 177);
+    border-color: var(--brdColour, white);
     border-width: 1px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   }
