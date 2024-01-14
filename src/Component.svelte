@@ -53,7 +53,7 @@
     gap: 4px;
     z-index: 999;
     position: absolute;
-    background-color: white;
+    background-color: black;
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 4px;
