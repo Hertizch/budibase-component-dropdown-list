@@ -28,7 +28,7 @@
         focusable="false"
         aria-hidden="true"
       >
-        <use xlink:href="#spectrum-css-icon-Chevron100" />
+        <use xlink:href="#spectrum-icon-18-Edit" />
       </svg>
       
     </button>
